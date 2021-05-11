@@ -4,7 +4,7 @@ For the merchants:
  
  npm install
 
-npm nodemon app.js
+ nodemon app.js
 
  cd ./front-end
  
