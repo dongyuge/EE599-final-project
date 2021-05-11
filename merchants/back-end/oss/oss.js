@@ -5,8 +5,8 @@ let oss = require('ali-oss');
 
 let client = new oss({
 	region:'oss-cn-hangzhou',
-	accessKeyId: 'LTAI5tDH87RcuThSrcJ4428G',
-	accessKeySecret:'A3a8D8axLH9RmRMQFbfBmRdtIssUEt',
+	accessKeyId: '',
+	accessKeySecret:'',
 	bucket:'ee599'
 });
 
