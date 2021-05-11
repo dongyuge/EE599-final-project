@@ -1,4 +1,5 @@
 For the merchants:
+ 
  cd ./back-end
  npm install
  npm nodemon app.js
